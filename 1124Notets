@@ -1,1 +1,81 @@
 
+11/242015
+1.e-portfolio
+Pros/cons and instructions
+Upload to CMSC 269 CRNxxx BB
+
+Submit e-Portofolio Documents
+Completed: Googlepages
+URL ??
+Started: Weebley
+
+2. Modules
+Requirement: CMSc 140/CMSC 203  Build a module to demonstrate array/method implementation in java and C++
+This module should include multiple examples demonstrating concepts and a complex program with specification so students can implement themselves and compare with the solution.
+
+11/24 : Step #1 : Thuy came up with the topic of the application/program 
+---- Start of the specification ------------
+Restaurant’s  Online Order System 
+Step #2 Refine description/specification of the application 
+Description/Specification
+a)	Java 
+1.	Restaurant’s  Online Order System 
+When customer starts application, application should display the following menu :
+Welcome to Restaurant xxx
+Menu 
+1.	Appetizer
+2.	Main Meal
+3.	Desert
+4.	Drinks 
+Please enter a number based on your selection 
+When 1 is entered
+Display the list of Appetizers
+When 2 is entered 
+Display the list of Main Meal
+When 3 is entered
+Display the list of Deserts
+When 4 is entered
+Display the list of Drinks
+
+NOTE: Each item should have a price
+Prompt user to select an item from the sub category. For now user can only select one item at the time.
+
+NOTE for Alla and Thuy : Second version will read menu from the file
+Version1: hard coded values
+Version 2: read from the file/write to the file
+
+After all items are selected, program will display the order and the total price including taxes
+It will prompt user to confirm if the order is correct or will give an option to edit order.
+NOTE: for first version, do not implement edit.
+
+ ---- End of the specification ------------
+
+Assignments
+1.	Create a new file and naming Specification and copy the specification listed above to their
+2.	Upload this file to github and to CMSC 269 
+//////////////////////////////////////
+
+
+
+We will be using version control software : https://github.com/
+Version Control Software 
+Keeps copies by you uploading them to the server
+When you are ready to deliver you create a label or version for delivery. 
+
+
+
+
+www.montgomerycollege.edu/tides
+github that will be included in your portfolio
+
+Employers are looking for:
+1.	How to write Requirements
+2.	How to write code
+3.	Best practices: Documenting your code (comments) 
+4.	How to use Configuration Management software ( version control) : github; subversion, Microsoft Source Safe and etc.
+5.	Demonstrate your skills : e-portfolio
+6.	Receiving your CS AA and CS in BS
+
+
+
+https://guides.github.com/activities/hello-world/#repository
