@@ -1,0 +1,35 @@
+CMSC 269
+Fall 2015
+Thuy Ngoc Lam
+  
+                                Specification/ description of the problem
+                                         
+Restaurant’s Online Order System 
+Description/Specification
+a)	Java: Using array and method 
+1.	Restaurant’s Online Order System 
+When customer starts application, application should display the following menu:
+Welcome to Restaurant xxx
+Menu 
+1.	Appetizer
+2.	Main Meal
+3.	Desert
+4.	Drinks
+5.  Done
+Please enter a number based on your selection: 
+When 1 is entered
+Display the list of Appetizers with prices
+When 2 is entered 
+Display the list of Main Meal with prices
+When 3 is entered
+Display the list of Deserts with prices
+When 4 is entered
+Display the list of Drinks with prices
+
+Prompt user to select an item from the sub category. For now user can only select one item at the time
+After all items are selected, program will display the order and the total price including taxes
+It will prompt user to confirm if the order is correct or will give an option to edit order.
+NOTE: for first version, do not implement edit.
+NOTE: Second version will read menu from the file
+Version1: hard coded values
+Version 2: read from the file/write to the file
